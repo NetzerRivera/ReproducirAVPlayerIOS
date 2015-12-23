@@ -12,6 +12,12 @@
 		2FB54A191C2933A400EB67CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FB54A171C2933A400EB67CA /* Main.storyboard */; };
 		2FB54A1B1C2933A400EB67CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FB54A1A1C2933A400EB67CA /* Assets.xcassets */; };
 		2FB54A1E1C2933A400EB67CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FB54A1C1C2933A400EB67CA /* LaunchScreen.storyboard */; };
+		2FB54A261C2933FC00EB67CA /* begin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FB54A251C2933FC00EB67CA /* begin.mp3 */; };
+		2FB54A281C29346800EB67CA /* diagnostic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FB54A271C29346800EB67CA /* diagnostic.mp3 */; };
+		2FB54A2A1C29349100EB67CA /* Grasshopper.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FB54A291C29349100EB67CA /* Grasshopper.mp3 */; };
+		2FB54A2C1C2934D300EB67CA /* g11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2FB54A2B1C2934D300EB67CA /* g11.jpg */; };
+		2FB54A2E1C29351700EB67CA /* sinsajo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2FB54A2D1C29351700EB67CA /* sinsajo.jpg */; };
+		2FB54A301C2935B100EB67CA /* gangsFrente.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FB54A2F1C2935B100EB67CA /* gangsFrente.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +28,12 @@
 		2FB54A1A1C2933A400EB67CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FB54A1D1C2933A400EB67CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FB54A1F1C2933A400EB67CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FB54A251C2933FC00EB67CA /* begin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = begin.mp3; sourceTree = "<group>"; };
+		2FB54A271C29346800EB67CA /* diagnostic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = diagnostic.mp3; sourceTree = "<group>"; };
+		2FB54A291C29349100EB67CA /* Grasshopper.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Grasshopper.mp3; sourceTree = "<group>"; };
+		2FB54A2B1C2934D300EB67CA /* g11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = g11.jpg; sourceTree = "<group>"; };
+		2FB54A2D1C29351700EB67CA /* sinsajo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sinsajo.jpg; sourceTree = "<group>"; };
+		2FB54A2F1C2935B100EB67CA /* gangsFrente.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gangsFrente.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,12 @@
 		2FB54A121C2933A400EB67CA /* SeleccionDeCanciones */ = {
 			isa = PBXGroup;
 			children = (
+				2FB54A291C29349100EB67CA /* Grasshopper.mp3 */,
+				2FB54A2B1C2934D300EB67CA /* g11.jpg */,
+				2FB54A251C2933FC00EB67CA /* begin.mp3 */,
+				2FB54A2F1C2935B100EB67CA /* gangsFrente.png */,
+				2FB54A271C29346800EB67CA /* diagnostic.mp3 */,
+				2FB54A2D1C29351700EB67CA /* sinsajo.jpg */,
 				2FB54A131C2933A400EB67CA /* AppDelegate.swift */,
 				2FB54A151C2933A400EB67CA /* ViewController.swift */,
 				2FB54A171C2933A400EB67CA /* Main.storyboard */,
@@ -121,9 +139,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FB54A261C2933FC00EB67CA /* begin.mp3 in Resources */,
+				2FB54A2E1C29351700EB67CA /* sinsajo.jpg in Resources */,
+				2FB54A2A1C29349100EB67CA /* Grasshopper.mp3 in Resources */,
+				2FB54A2C1C2934D300EB67CA /* g11.jpg in Resources */,
 				2FB54A1E1C2933A400EB67CA /* LaunchScreen.storyboard in Resources */,
 				2FB54A1B1C2933A400EB67CA /* Assets.xcassets in Resources */,
 				2FB54A191C2933A400EB67CA /* Main.storyboard in Resources */,
+				2FB54A301C2935B100EB67CA /* gangsFrente.png in Resources */,
+				2FB54A281C29346800EB67CA /* diagnostic.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
